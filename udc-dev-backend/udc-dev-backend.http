@@ -1,0 +1,6 @@
+@udc_dev_backend_HostAddress = http://localhost:5233
+
+GET {{udc_dev_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

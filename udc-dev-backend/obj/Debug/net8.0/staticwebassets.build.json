@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cnNvthb8XbA5Nplv21ewM8ZaNDIYI0C8eNTl0Wzl9xw=",
+  "Source": "udc-dev-backend",
+  "BasePath": "_content/udc-dev-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
